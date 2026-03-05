@@ -1,7 +1,5 @@
 # Heart Disease Analysis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?logo=linkedin)](https://www.linkedin.com/in/mohammad-amin-saeini)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue.svg?logo=kaggle)](https://www.kaggle.com/mohammad-amin-saeini)
 
 ## Overview
 Understanding the driving factors behind cardiovascular issues is critical for early diagnosis and preventative care. This project explores a medical dataset containing patient records to analyze the features most strongly associated with heart disease. Through data cleaning, descriptive statistics, and targeted visualization, the objective is to uncover the distribution of these clinical features and evaluate their predictive relationship with the target variable (the presence or absence of heart disease).
